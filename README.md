@@ -5,7 +5,7 @@
 ## 📱 시뮬레이션
 | 게임 화면 | 점프 동작 | 장애물 피하기 & 출동 |
 |---------------|---------------|---------------|
-| <img src="https://github.com/user-attachments/assets/8deea044-41bf-43b0-8d81-f5090a5ef993" width="200" /> | <img src="https://github.com/user-attachments/assets/dc25a38d-de30-4ad5-a470-9868c0fd10d4" width="200" /> | <img src="https://github.com/user-attachments/assets/af960008-0170-4612-984d-a69d8d6e1a51" width="200" /> |
+| <img src="https://github.com/user-attachments/assets/8deea044-41bf-43b0-8d81-f5090a5ef993" width="300" /> | <img src="https://github.com/user-attachments/assets/dc25a38d-de30-4ad5-a470-9868c0fd10d4" width="300" /> | <img src="https://github.com/user-attachments/assets/af960008-0170-4612-984d-a69d8d6e1a51" width="300" /> |
 
 ## ⚙️ 주요 기능
 - **외줄타기 동작 구현**: 캐릭터가 외줄 위에서 균형을 잡고 움직임
