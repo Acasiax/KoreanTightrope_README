@@ -3,9 +3,9 @@
 **Korean Tightrope**는 한국 전통놀이인 외줄타기를 테마로 한 tvOS용 게임입니다. 외줄 위에서 캐릭터를 조종하여 균형을 잡고, 장애물을 피하며, 목표에 도달하는 도전적인 게임을 제공합니다. 캐릭터의 움직임과 점프 동작을 통해 외줄타기 고유의 긴장감과 재미를 느껴보세요.
 
 ## 📱 시뮬레이션
-| 게임 화면 | 점프 동작 | 장애물 피하기 |
+| 게임 화면 | 점프 동작 | 장애물 피하기 & 출동 |
 |---------------|---------------|---------------|
-| <img src="https://github.com/user-attachments/assets/gameplay1.png" width="200" /> | <img src="https://github.com/user-attachments/assets/gameplay2.png" width="200" /> | <img src="https://github.com/user-attachments/assets/gameplay3.png" width="200" /> |
+| <img src="https://github.com/user-attachments/assets/8deea044-41bf-43b0-8d81-f5090a5ef993" width="200" /> | <img src="https://github.com/user-attachments/assets/dc25a38d-de30-4ad5-a470-9868c0fd10d4" width="200" /> | <img src="https://github.com/user-attachments/assets/af960008-0170-4612-984d-a69d8d6e1a51" width="200" /> |
 
 ## ⚙️ 주요 기능
 - **외줄타기 동작 구현**: 캐릭터가 외줄 위에서 균형을 잡고 움직임
